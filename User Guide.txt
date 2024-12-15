@@ -1,0 +1,39 @@
+KMart Chatbot User Guide
+
+
+1. Greetings and Shopping Initiation
+  When you start the chatbot, it will greet you and ask for your name.
+  It will then inquire if you are looking to do some shopping.
+2. Shopping Queries
+  You can ask the chatbot about the shelf numbers of various goods available in KMart.
+  Examples of goods include bread, milk, eggs, butter, cheese, rice, pasta, etc.
+  You can input your queries in natural language. Make sure to add the word shelf/shelves 
+in the query. (e.g., "What is the shelf number of milk?").
+3. Responses
+  The chatbot will respond with the shelf numbers of the requested items.
+  If it cannot find the requested item, it will suggest asking a staff member for assistance.
+4. Interaction
+  The chatbot will engage in a conversation, responding to your inputs until you decide 
+to exit.
+  You can exit the conversation by typing keywords such as "quit," "exit," "bye," etc.
+5. Features
+  Case  Insensitivity:  The  chatbot  handles  inputs  case-insensitively,  so  "Bread"  and 
+"bread" will be treated the same.
+  Error Handling: If the chatbot doesn't understand the query, it will ask for more details 
+to clarify.
+6. Exiting
+  You can end the conversation at any time by typing one of the exit commands.
+
+
+Example Usage
+Hello Customer! Welcome to KMart. What's your name?
+[User enters name]
+Hello, [User]! Are you looking to do some shopping?
+[User responds affirmatively]
+[Chatbot prompts with a random question]
+[User asks for the shelf number of "milk"]
+[Chatbot provides shelf number and asks "What else do you want to know?"]
+[User asks for the shelf number of "bread"]
+[Chatbot provides shelf number and asks "What else do you want to kno w?"]
+[User decides to quit]
+Thank you for choosing KMart, [User]! Have a nice day! 
